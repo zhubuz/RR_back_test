@@ -10,7 +10,11 @@
        
         {
             "trait_type": "关联账号",
-            "value": "SR"
+            "value": "RR-xxxxx"
+        },
+         {
+            "trait_type": "社交图谱",
+            "value": "135xxxx,186xxxxx,156xxxxx"
         },
         {
             "trait_type": "曾贡献值",
