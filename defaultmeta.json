@@ -1,7 +1,7 @@
 {
     "name": "DID",
     "description": "再起航！",
-    "image": "https://raw.githubusercontent.com/zhubuz/web3.github.io/gh-pages/default_icon.png",
+    "image": "https://raw.githubusercontent.com/zhubuz/RR_back_test/main/default_icon.png",
     "attributes": [
         {
             "trait_type": "社区来源",
